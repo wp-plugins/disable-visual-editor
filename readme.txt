@@ -1,9 +1,9 @@
-=== Plugin Name ===
+=== Disable Visual Editor ===
 Contributors: chmac
 Donate link: http://www.callum-macdonald.com/code/donate/
 Tags: visual editor, disable visual editor, tinymce, disable tinymce
 Requires at least: 2.0
-Tested up to: 2.2.3
+Tested up to: 2.3
 Stable tag: 1.0
 
 This plugin disables the visual editor for all users across the whole site. You could also remove the wp-includes/js/tinymce/ directory.
